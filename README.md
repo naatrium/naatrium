@@ -18,5 +18,3 @@
   <a href="https://www.linkedin.com/in/mrrodriguesdearruda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![snake gif](https://github.com/naatrium/blob/output/github-contribution-grid-snake.svg)
