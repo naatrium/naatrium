@@ -19,4 +19,4 @@
   
 </div>
 
-![snake gif](https://github.com/naatrium/naatrium/.github/workflows/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/naatrium/blob/output/github-contribution-grid-snake.svg)
